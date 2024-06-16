@@ -47,6 +47,6 @@ public class ArrayLoop {
         //return index if 2md argiment value matches any element of array
         //else return -1
         //print the returned index value
-        System.out.println(findarr(words,istiring)); 
+        //System.out.println((words,istiring)); 
     }
 }
